@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="247px" height="60px" viewBox="0 0 247 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>gdg-perm</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="49.969398%" cy="49.9951198%" fx="49.969398%" fy="49.9951198%" r="115.408943%" id="radialGradient-1">
+            <stop stop-color="#FFCF4F" offset="0%"></stop>
+            <stop stop-color="#F4C236" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="49.9754259%" cy="49.9956595%" fx="49.9754259%" fy="49.9956595%" r="128.838083%" id="radialGradient-2">
+            <stop stop-color="#08A960" offset="0%"></stop>
+            <stop stop-color="#07914B" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="49.984431%" cy="49.9971903%" fx="49.984431%" fy="49.9971903%" r="130.881758%" id="radialGradient-3">
+            <stop stop-color="#567FC0" offset="0%"></stop>
+            <stop stop-color="#557FC0" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="49.9796554%" cy="49.9945664%" fx="49.9796554%" fy="49.9945664%" r="123.138584%" id="radialGradient-4">
+            <stop stop-color="#E14C40" offset="0%"></stop>
+            <stop stop-color="#CD392D" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="gdg-perm">
+            <text id="GDG-Perm" font-family="Verdana-Bold, Verdana" font-size="40" font-weight="bold" letter-spacing="-0.917647064">
+                <tspan x="42" y="41" fill="#4E4E4E">GDG</tspan>
+                <tspan x="137.332996" y="41" font-family="Verdana" font-weight="normal" letter-spacing="-1.0196079" fill="#E6E6E5"> </tspan>
+                <tspan x="150.375888" y="41" font-family="Verdana" font-weight="normal" letter-spacing="-1.0196079" fill="#4E4E4E">Perm</tspan>
+            </text>
+            <g id="symbol">
+                <path d="M8.91,60 L15.701,60 C17.308,60 19.305,58.872 20.133,57.489 L25.853,47.97 C26.53,46.574 26.506,44.544 25.734,43.257 L22.356,37.665 L8.91,60 Z" id="Shape" fill="url(#radialGradient-1)"></path>
+                <path d="M16.209,32.514 L1.108,57.763 C0.524,59.011 1.131,60 2.629,60 L8.91,60 L22.356,37.665 L16.21,27.492 C17.039,28.87 17.039,31.13 16.209,32.514" id="Shape" fill="url(#radialGradient-2)"></path>
+                <path d="M2.629,0 C1.015,0 0.375,1.133 1.205,2.511 L25.734,43.256 C26.506,44.544 26.529,46.573 25.853,47.969 L31.816,38.044 L8.914,0 L2.629,0 Z" id="Shape" fill="url(#radialGradient-3)"></path>
+                <path d="M8.914,0 L31.817,38.045 L35.138,32.515 C35.968,31.13 35.968,28.87 35.138,27.492 L20.133,2.511 C19.305,1.133 17.308,0 15.701,0 L8.914,0 Z" id="Shape" fill="url(#radialGradient-4)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

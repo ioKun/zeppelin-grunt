@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Call for Papers"
+title:  "Что такое codelab?"
 date:   2014-07-21 09:00:00
 isStaticPost: false
 ---
-GDG DevFest Ukraine 2014 will be held 24-25th of October in ancient city of Lviv. If you want to be part of this great event as a speaker you knocked at the good door.
+Codelab - формат, где вы можете попробовать новую технологию не на словах, а в деле! Наши эксперты шаг за шагом помогут вам разобраться в процессе освоения новой технологии. Да, будет настоящий код и реальные примеры.
 
-#### Presenters – who should speak at the DevFest Conference?
+<!-- #### Presenters – who should speak at the DevFest Conference?
 
 * developers (freelance and hired)
 * companies developing software (apps, tools, frameworks etc.)
@@ -63,5 +63,5 @@ __Please note:__ There is no guarantee that a submission will be put onto the co
 
 The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2014.<br/>
 
-#### Any questions? 
-Email organizers at [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua)
+#### Any questions?
+Email organizers at [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua) -->

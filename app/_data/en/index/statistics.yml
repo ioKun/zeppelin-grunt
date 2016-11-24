@@ -1,6 +1,6 @@
 image: "statistic.jpg"
 blocks:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "200", specialCharacter: "+", info: "участников", detail: "разработчики, тестировщики, архитекторы, руководители технических отделов"}
+ - {count: "8", specialCharacter: "+", info: "часов", detail: "хардкорных технических докладов"}
+ - {count: "6", specialCharacter: "+", info: "спикеров", detail: "из России"}
+ # - {count: "3", specialCharacter: "", info: "основных тематики", detail: "plus entertainment lounge"}

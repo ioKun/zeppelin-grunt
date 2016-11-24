@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="174px" height="186px" viewBox="0 0 174 186" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="189px" height="186px" viewBox="0 0 189 186" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
     <title>logos</title>
     <desc>Created with Sketch.</desc>
@@ -60,9 +60,9 @@
                 <path d="M16.209,32.514 L1.108,57.763 C0.524,59.011 1.131,60 2.629,60 L8.91,60 L22.356,37.665 L16.21,27.492 C17.039,28.87 17.039,31.13 16.209,32.514" id="Shape" fill="url(#radialGradient-2)"></path>
                 <path d="M2.629,0 C1.015,0 0.375,1.133 1.205,2.511 L25.734,43.256 C26.506,44.544 26.529,46.573 25.853,47.969 L31.816,38.044 L8.914,0 L2.629,0 Z" id="Shape" fill="url(#radialGradient-3)"></path>
                 <path d="M8.914,0 L31.817,38.045 L35.138,32.515 C35.968,31.13 35.968,28.87 35.138,27.492 L20.133,2.511 C19.305,1.133 17.308,0 15.701,0 L8.914,0 Z" id="Shape" fill="url(#radialGradient-4)"></path>
-                <text id="GDG-DevFest-Perm-201-Copy" font-family="Verdana" font-size="20" font-weight="normal" letter-spacing="-0.458823562" fill="#4E4E4E">
-                    <tspan x="45" y="25">GDG DevFest</tspan>
-                    <tspan x="45" y="49">Perm 2016</tspan>
+                <text id="GDG-DevFest-Perm-201-Copy" font-family="Verdana-Bold, Verdana" font-size="20" font-weight="bold" letter-spacing="-0.458823562" fill="#4E4E4E">
+                    <tspan x="48" y="25">GDG DevFest</tspan>
+                    <tspan x="48" y="49">Perm 2016</tspan>
                 </text>
             </g>
             <g id="Group" transform="translate(0.000000, 63.000000)">
@@ -70,9 +70,9 @@
                 <path d="M16.209,32.514 L1.108,57.763 C0.524,59.011 1.131,60 2.629,60 L8.91,60 L22.356,37.665 L16.21,27.492 C17.039,28.87 17.039,31.13 16.209,32.514" id="Shape" fill="url(#radialGradient-6)"></path>
                 <path d="M2.629,0 C1.016,0 0.375,1.133 1.205,2.511 L25.734,43.256 C26.506,44.544 26.529,46.573 25.853,47.969 L31.816,38.044 L8.914,0 L2.629,0 Z" id="Shape" fill="url(#radialGradient-7)"></path>
                 <path d="M8.914,0 L31.817,38.045 L35.138,32.515 C35.968,31.13 35.968,28.87 35.138,27.492 L20.134,2.512 C19.305,1.133 17.308,0 15.701,0 L8.914,0 Z" id="Shape" fill="url(#radialGradient-8)"></path>
-                <text id="GDG-DevFest-Perm-201" font-family="Verdana" font-size="20" font-weight="normal" letter-spacing="-0.458823562" fill="#4E4E4E">
-                    <tspan x="45" y="25">GDG DevFest</tspan>
-                    <tspan x="45" y="49">Perm 2016</tspan>
+                <text id="GDG-DevFest-Perm-201" font-family="Verdana-Bold, Verdana" font-size="20" font-weight="bold" letter-spacing="-0.458823562" fill="#4E4E4E">
+                    <tspan x="48" y="24">GDG DevFest</tspan>
+                    <tspan x="48" y="48">Perm 2016</tspan>
                 </text>
             </g>
             <g id="Group" transform="translate(1.000000, 126.000000)">
@@ -80,9 +80,9 @@
                 <path d="M15.368,32.514 L0.266,57.763 C-0.317,59.011 0.289,60 1.787,60 L8.068,60 L21.514,37.665 L15.368,27.492 C16.197,28.87 16.197,31.13 15.368,32.514" id="Shape" fill="url(#radialGradient-10)"></path>
                 <path d="M1.787,0 C0.174,0 -0.467,1.133 0.363,2.511 L24.892,43.256 C25.664,44.544 25.687,46.573 25.011,47.969 L30.974,38.044 L8.072,0 L1.787,0 Z" id="Shape" fill="url(#radialGradient-11)"></path>
                 <path d="M8.072,0 L30.975,38.045 L34.296,32.515 C35.126,31.13 35.126,28.87 34.296,27.492 L19.292,2.511 C18.463,1.133 16.467,0 14.86,0 L8.072,0 Z" id="Shape" fill="url(#radialGradient-12)"></path>
-                <text id="GDG-DevFest-Perm-201" font-family="Verdana" font-size="20" font-weight="normal" letter-spacing="-0.458823562" fill="#E6E6E5">
-                    <tspan x="44" y="25">GDG DevFest</tspan>
-                    <tspan x="44" y="49">Perm 2016</tspan>
+                <text id="GDG-DevFest-Perm-201" font-family="Verdana-Bold, Verdana" font-size="20" font-weight="bold" letter-spacing="-0.458823562" fill="#E6E6E5">
+                    <tspan x="47" y="25">GDG DevFest</tspan>
+                    <tspan x="47" y="49">Perm 2016</tspan>
                 </text>
             </g>
         </g>
