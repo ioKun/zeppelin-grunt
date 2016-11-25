@@ -1,5 +1,5 @@
 title: "Про DevFest Perm"
 blocks:
  - {title: "Доклады", image: "conference.jpg", text: "Самые горячие темы про Android, Web, IoT, Firebase и VR/AR от ведущих экспертов со всего мира! Создано с любовью сибирскими разработчиками." }
- - {title: "Воркшопы", image: "workshop.jpg", text: "Два дня практических занятий и семинаров! Отличный способ попробовать новые технологии, не откладывая на потом!" }
+ - {title: "Воркшопы", image: "workshop.jpg", text: "Целый день практических занятий и семинаров! Отличный способ попробовать новые технологии, не откладывая на потом!" }
  # - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }

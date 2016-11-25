@@ -1,5 +1,5 @@
 -
-  group: "Орагнизатор"
+  group: "Организатор"
   elements:
     - {name: "GDG Perm", description: "GDG Perm - Свободное сообщество разработчиков", link: "https://plus.google.com/b/103291561487175141612/103291561487175141612", imageUrl: "gdg-perm.svg"}
 -

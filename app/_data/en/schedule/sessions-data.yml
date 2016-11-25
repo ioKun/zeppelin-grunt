@@ -23,7 +23,7 @@
 -
   id: 001
   title: "Кому и зачем нужен FireBase."
-  description: "Здесь должно быть описание но его не заполнили"
+  # description: "Здесь должно быть описание но его не заполнили"
   subtype: presentation
   speakers: [3]
   language: ru
@@ -32,7 +32,7 @@
 -
   id: 002
   title: "Чего нам не хватало в AndroidVR или как запилить свой контролер."
-  description: "Здесь должно быть описание но его не заполнили"
+  # description: "Здесь должно быть описание но его не заполнили"
   subtype: presentation
   speakers: [5]
   language: ru
@@ -42,7 +42,7 @@
 -
   id: 003
   title: "Angular 2: конфигурируем до неузнаваемости."
-  description: "Здесь должно быть описание но его не заполнили"
+  # description: "Здесь должно быть описание но его не заполнили"
   subtype: presentation
   speakers: [4]
   language: ru
@@ -52,7 +52,7 @@
 -
   id: 004
   title: "PWA - Progressive Web Applications."
-  description: "Здесь должно быть описание но его не заполнили"
+  # description: "Здесь должно быть описание но его не заполнили"
   subtype: presentation
   speakers: [1]
   language: ru
@@ -62,7 +62,7 @@
 -
   id: 005
   title: "MVP на стероидах или пусть код за вас пишет робот."
-  description: "Здесь должно быть описание но его не заполнили"
+  # description: "Здесь должно быть описание но его не заполнили"
   subtype: presentation
   speakers: [2]
   language: ru
@@ -72,9 +72,20 @@
 -
   id: 101
   title: "VR Воркшоп"
-  description: "Здесь должно быть описание но его не заполнили"
+  # description: "Здесь должно быть описание но его не заполнили"
   subtype: workshop
   speakers: [5]
+  language: ru
+  complexity: "Intermediate"
+  # ссылка на презентацию
+  presentation: ""
+  video: ""
+-
+  id: 102
+  title: "IoT Воркшоп"
+  # description: "Здесь должно быть описание но его не заполнили"
+  subtype: workshop
+  speakers: []
   language: ru
   complexity: "Intermediate"
   # ссылка на презентацию

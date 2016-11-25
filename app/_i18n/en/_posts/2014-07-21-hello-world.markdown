@@ -5,7 +5,7 @@ date:   2014-07-21 08:00:00
 isStaticPost: false
 ---
 Мы объявляем начало регистрации на IT-конференцию DevFest Perm 2016!
-Присоеденяйтесь!
+Присоединяйтесь!
 
 <!-- We're very excited - not just because of the inordinate amount of caffeine based products consumed -
 but also because our team are putting together

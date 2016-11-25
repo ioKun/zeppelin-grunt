@@ -35,7 +35,7 @@
     - {
       	startTime: "--:--",
       	endTime: "--:--",
-      	sessionIds: [004, 101]
+      	sessionIds: [004, 102]
     }
     - {
           startTime: "--:--",
@@ -45,7 +45,7 @@
     - {
       	startTime: "--:--",
       	endTime: "--:--",
-      	sessionIds: [005, 101]
+      	sessionIds: [005, 102]
     }
     - {
         	startTime: "--:--",
