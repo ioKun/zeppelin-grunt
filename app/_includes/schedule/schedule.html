@@ -1,5 +1,9 @@
 <!-- Begin Schedule Section -->
 <section id="schedule" class="schedule">
+    <!-- TODO remove static -->
+    <p></p><h6 class="track-header-title">
+    Программа может быть изменена. Следите за обновлениями!
+  	</h6><br><br><p></p>
     <div class="content-wrapper">
         {% for day in site.data.[site.lang].schedule.schedule-data %}
         <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
@@ -52,7 +56,7 @@
                                                     </p>
                                                     </li>
                                                     {% endif %}
-                                                {% endfor %}    
+                                                {% endfor %}
                                             {% endfor %}
                                         </ul>
                                     </div>

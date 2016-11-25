@@ -1,5 +1,5 @@
 -
-  id: 3
+  id: 1
   name: "Даниил"
   surname: "Оношко"
   company: "Leadbean, Новосибирск"
@@ -11,7 +11,7 @@
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 
 -
-  id: 4
+  id: 2
   name: "Александр"
   surname: "Блинов"
   company: "REDMADROBOT, Москва"
@@ -23,13 +23,36 @@
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 
 -
-  id: 5
+  id: 3
   name: "Тимур"
   surname: "Ахметгареев"
   company: "App in the Air Inc, Москва"
   title: "Android Lead"
   bio: ""
   thumbnailUrl: TimurA.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+
+-
+  id: 4
+  name: "Алексей"
+  surname: "Охрименко"
+  company: "IPONWEB, Москва"
+  title: "Senior Javascript Developer"
+  bio: "Организатор Angular 2 митапа, автор дизайн паттерна MALEVICH и PEG парсера SimplePEG."
+  thumbnailUrl: OkhrymenkoOleksii.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+-
+  id: 5
+  name: "Даниил"
+  surname: "Гончаров"
+  company: "Finch VR, Уфа"
+  title: "Senior Developer"
+  bio: ""
+  thumbnailUrl: OkhrymenkoOleksii.jpg
   rockstar: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}

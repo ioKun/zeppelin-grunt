@@ -16,10 +16,11 @@
     }
     img {
         width: 100%;
-        transition: $base-transition;
-        filter: grayscale(1);
-        &:hover {
-            filter: grayscale(0);
-        }
+        // TODO updated
+        // transition: $base-transition;
+        // filter: grayscale(1);
+        // &:hover {
+        //     filter: grayscale(0);
+        // }
     }
 }

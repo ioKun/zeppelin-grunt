@@ -1,50 +1,81 @@
-- 
-  date: "2014-10-24"
-  dateReadable: "October 24"
-  tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
+-
+  date: "2016-12-17"
+  dateReadable: "17 Декабря"
+  tracks:
+    - {title: "Доклады", color: "#90be4e"}
+    - {title: "Воркшопы", color: "#03a9f4"}
+    # - {title: "Community", color: "#e91e63"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [002, 003, 004]
+        	startTime: "--:--",
+        	endTime: "--:--",
+        	sessionIds: [111]
+      }
+    - {
+        	startTime: "--:--",
+        	endTime: "--:--",
+        	sessionIds: [001, 101]
+      }
+    - {
+        startTime: "--:--",
+        endTime: "--:--",
+        sessionIds: [666]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [003, 404, 004]
+        startTime: "--:--",
+        endTime: "--:--",
+        sessionIds: [002, 101]
+    }
+
+    - {
+      	startTime: "--:--",
+      	endTime: "--:--",
+      	sessionIds: [003, 101]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [307]
-    }
-- 
-  date: "2014-10-25"
-  dateReadable: "October 25"
-  tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-  timeslots: 
-    - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [404, 002]
+      	startTime: "--:--",
+      	endTime: "--:--",
+      	sessionIds: [004, 101]
     }
     - {
-    	startTime: "11:00",
-    	endTime: "11:45",
-    	sessionIds: [002, 003]
+          startTime: "--:--",
+          endTime: "--:--",
+          sessionIds: [999]
+      }
+    - {
+      	startTime: "--:--",
+      	endTime: "--:--",
+      	sessionIds: [005, 101]
     }
     - {
-        startTime: "13:00",
-        endTime: "13:45",
-        sessionIds: [003]
-    }
-    - {
-    	startTime: "14:00",
-    	endTime: "15:00",
-    	sessionIds: [503]
-    }
+        	startTime: "--:--",
+        	endTime: "--:--",
+        	sessionIds: [222]
+      }
+# -
+#   date: "2014-10-25"
+#   dateReadable: "October 25"
+#   tracks:
+#     - {title: "Android", color: "#90be4e"}
+#     - {title: "Web & Cloud", color: "#03a9f4"}
+#   timeslots:
+#     - {
+#     	startTime: "10:00",
+#     	endTime: "10:45",
+#     	sessionIds: [404, 002]
+#     }
+#     - {
+#     	startTime: "11:00",
+#     	endTime: "11:45",
+#     	sessionIds: [002, 003]
+#     }
+#     - {
+#         startTime: "13:00",
+#         endTime: "13:45",
+#         sessionIds: [003]
+#     }
+#     - {
+#     	startTime: "14:00",
+#     	endTime: "15:00",
+#     	sessionIds: [503]
+#     }
